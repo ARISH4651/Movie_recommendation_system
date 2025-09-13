@@ -6,7 +6,7 @@ It recommends movies based on similarity in **genres, keywords, tagline, cast, a
 
 ---
 
-## 🛠Tech Stack  
+## Tech Stack  
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Difflib  
 - **Algorithm:** Content-based filtering using TF-IDF & Cosine Similarity  
